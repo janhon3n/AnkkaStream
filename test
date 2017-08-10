@@ -1,0 +1,1600 @@
+{
+	"statuses": [
+        {
+			"created_at": "Wed Aug 09 19:10:21 +0000 2017",
+			"id": 895361626261598209,
+			"id_str": "895361626261598209",
+			"text": "46\/365 #haiku n. 1506\nFuori fulmina \nIl gigante azzurro \nNon ha paura",
+			"truncated": false,
+			"entities": {
+				"hashtags": [{
+						"text": "haiku",
+						"indices": [7, 13]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "it",
+				"result_type": "recent"
+			},
+			"source": "\u003ca href=\"http:\/\/www.facebook.com\/twitter\" rel=\"nofollow\"\u003eFacebook\u003c\/a\u003e",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1563656941,
+				"id_str": "1563656941",
+				"name": "FedeColamaria",
+				"screen_name": "FedericaColamar",
+				"location": "",
+				"description": "Non amo definirmi. Definiscimi tu.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71,
+				"friends_count": 136,
+				"listed_count": 4,
+				"created_at": "Tue Jul 02 16:58:00 +0000 2013",
+				"favourites_count": 123,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1458,
+				"lang": "it",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/782980528433721344\/ufG1EwLx_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/782980528433721344\/ufG1EwLx_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1563656941\/1379628028",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "it"
+		}, {
+			"created_at": "Wed Aug 09 19:10:09 +0000 2017",
+			"id": 895361576622010368,
+			"id_str": "895361576622010368",
+			"text": "RT @TyseerIbrahim: The world must support\nthe Palestinians to have\ntheir liberation\n#Palestine #EndTheOccupation #micropoetry #haiku #amwri\u2026",
+			"truncated": false,
+			"entities": {
+				"hashtags": [{
+						"text": "Palestine",
+						"indices": [84, 94]
+					}, {
+						"text": "EndTheOccupation",
+						"indices": [95, 112]
+					}, {
+						"text": "micropoetry",
+						"indices": [113, 125]
+					}, {
+						"text": "haiku",
+						"indices": [126, 132]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [{
+						"screen_name": "TyseerIbrahim",
+						"name": "A",
+						"id": 1645192772,
+						"id_str": "1645192772",
+						"indices": [3, 17]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 874505142,
+				"id_str": "874505142",
+				"name": "roger the dodger",
+				"screen_name": "rogersurfacings",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2180,
+				"friends_count": 1508,
+				"listed_count": 393,
+				"created_at": "Thu Oct 11 23:24:15 +0000 2012",
+				"favourites_count": 122932,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 154074,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/863074325024387073\/aBXJUwKG_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/863074325024387073\/aBXJUwKG_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/874505142\/1494660266",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Mon Jul 24 15:53:07 +0000 2017",
+				"id": 889513783659462658,
+				"id_str": "889513783659462658",
+				"text": "The world must support\nthe Palestinians to have\ntheir liberation\n#Palestine #EndTheOccupation #micropoetry #haiku\u2026 https:\/\/t.co\/tzbBJPlwE5",
+				"truncated": true,
+				"entities": {
+					"hashtags": [{
+							"text": "Palestine",
+							"indices": [65, 75]
+						}, {
+							"text": "EndTheOccupation",
+							"indices": [76, 93]
+						}, {
+							"text": "micropoetry",
+							"indices": [94, 106]
+						}, {
+							"text": "haiku",
+							"indices": [107, 113]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [{
+							"url": "https:\/\/t.co\/tzbBJPlwE5",
+							"expanded_url": "https:\/\/twitter.com\/i\/web\/status\/889513783659462658",
+							"display_url": "twitter.com\/i\/web\/status\/8\u2026",
+							"indices": [115, 138]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1645192772,
+					"id_str": "1645192772",
+					"name": "A",
+					"screen_name": "TyseerIbrahim",
+					"location": "A",
+					"description": "\u200f\u200f\u200f",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1810,
+					"friends_count": 1263,
+					"listed_count": 126,
+					"created_at": "Sun Aug 04 13:03:17 +0000 2013",
+					"favourites_count": 11964,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 38997,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+					"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/857943961691881472\/xUG7N9h-_normal.jpg",
+					"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/857943961691881472\/xUG7N9h-_normal.jpg",
+					"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1645192772\/1447872356",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 23,
+				"favorite_count": 37,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		}, {
+			"created_at": "Wed Aug 09 19:09:27 +0000 2017",
+			"id": 895361399257432065,
+			"id_str": "895361399257432065",
+			"text": "road rage\na fly\u2019s frantic buzzing\non the windscreen\n\nMartha Magenta https:\/\/t.co\/jNhgFiPAj8 #haiku #poetry #micropoetry",
+			"truncated": false,
+			"entities": {
+				"hashtags": [{
+						"text": "haiku",
+						"indices": [92, 98]
+					}, {
+						"text": "poetry",
+						"indices": [99, 106]
+					}, {
+						"text": "micropoetry",
+						"indices": [107, 119]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [{
+						"url": "https:\/\/t.co\/jNhgFiPAj8",
+						"expanded_url": "http:\/\/goo.gl\/3Y4YhG",
+						"display_url": "goo.gl\/3Y4YhG",
+						"indices": [68, 91]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1053422419,
+				"id_str": "1053422419",
+				"name": "Chen-ou Liu",
+				"screen_name": "StoryHaikuTanka",
+				"location": "GTA, Canada",
+				"description": "Editor and Chief Translator, NeverEnding Story: First English-Chinese Bilingual Haiku and Tanka Blog. \u4e2d\u6587\u93e1\u50cf\u7db2\u7ad9, \u5531\u4e0d\u5b8c\u7684\u8a69\u6b4c:\u4e2d\u82f1\u96d9\u8a9e\u77ed\u8a69\u90e8\u843d\u683c. Seek haiku\/tanka submissions.",
+				"url": "http:\/\/t.co\/8nkRnN08EI",
+				"entities": {
+					"url": {
+						"urls": [{
+								"url": "http:\/\/t.co\/8nkRnN08EI",
+								"expanded_url": "http:\/\/neverendingstoryhaikutanka.blogspot.ca\/",
+								"display_url": "neverendingstoryhaikutanka.blogspot.ca",
+								"indices": [0, 22]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1205,
+				"friends_count": 6,
+				"listed_count": 111,
+				"created_at": "Tue Jan 01 20:21:32 +0000 2013",
+				"favourites_count": 86,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14741,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3051557727\/187cc3377bb10f7ce0090bfd858c11b2_normal.jpeg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3051557727\/187cc3377bb10f7ce0090bfd858c11b2_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		}, {
+			"created_at": "Wed Aug 09 19:08:36 +0000 2017",
+			"id": 895361185817743360,
+			"id_str": "895361185817743360",
+			"text": "RT @pauldavidmena: sleepless night --\na spider\nin its web\n#haiku",
+			"truncated": false,
+			"entities": {
+				"hashtags": [{
+						"text": "haiku",
+						"indices": [58, 64]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [{
+						"screen_name": "pauldavidmena",
+						"name": "Extra Special Bitter",
+						"id": 111669399,
+						"id_str": "111669399",
+						"indices": [3, 17]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39055904,
+				"id_str": "39055904",
+				"name": "red Ravine",
+				"screen_name": "redravine",
+				"location": "Minnesota, USA",
+				"description": "A writing & art space whose mission & vision is to provide community, structure, & tools that inspire. From writer, artist, photographer QuoinMonkey.",
+				"url": "http:\/\/t.co\/PNciZ29VIi",
+				"entities": {
+					"url": {
+						"urls": [{
+								"url": "http:\/\/t.co\/PNciZ29VIi",
+								"expanded_url": "http:\/\/redravine.com\/",
+								"display_url": "redravine.com",
+								"indices": [0, 22]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2247,
+				"friends_count": 2610,
+				"listed_count": 287,
+				"created_at": "Sun May 10 14:46:34 +0000 2009",
+				"favourites_count": 20594,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24411,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/205670532\/redRavine_avatar_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/205670532\/redRavine_avatar_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/39055904\/1428250842",
+				"profile_link_color": "F4110B",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "FDFB86",
+				"profile_text_color": "1E1615",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Wed Aug 09 10:09:42 +0000 2017",
+				"id": 895225567850762240,
+				"id_str": "895225567850762240",
+				"text": "sleepless night --\na spider\nin its web\n#haiku",
+				"truncated": false,
+				"entities": {
+					"hashtags": [{
+							"text": "haiku",
+							"indices": [39, 45]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 111669399,
+					"id_str": "111669399",
+					"name": "Extra Special Bitter",
+					"screen_name": "pauldavidmena",
+					"location": "Cochituate, MA, USA",
+					"description": "I am a professional beer drinker and haiku poet volunteering in the IT industry since 1983.",
+					"url": "http:\/\/t.co\/Lez9nLDjoy",
+					"entities": {
+						"url": {
+							"urls": [{
+									"url": "http:\/\/t.co\/Lez9nLDjoy",
+									"expanded_url": "http:\/\/www.extraspecialbitter.com",
+									"display_url": "extraspecialbitter.com",
+									"indices": [0, 22]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1665,
+					"friends_count": 617,
+					"listed_count": 145,
+					"created_at": "Fri Feb 05 19:09:57 +0000 2010",
+					"favourites_count": 2544,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 13916,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/357838871\/Vieques_Sunset.jpg",
+					"profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/357838871\/Vieques_Sunset.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/677814816\/Paul_Riverside_255_normal.jpg",
+					"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/677814816\/Paul_Riverside_255_normal.jpg",
+					"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/111669399\/1354055354",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "ad3f61e520e8f130",
+					"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/ad3f61e520e8f130.json",
+					"place_type": "city",
+					"name": "Cochituate",
+					"full_name": "Cochituate, MA",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [[[-71.382121, 42.310003], [-71.328386, 42.310003], [-71.328386, 42.35002], [-71.382121, 42.35002]]]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		}, {
+			"created_at": "Wed Aug 09 19:08:10 +0000 2017",
+			"id": 895361077273403396,
+			"id_str": "895361077273403396",
+			"text": "RT @TyseerIbrahim: Boycott Israel\nbecause it stole the land of\nthe Palestinians\n#Palestine #EndTheOccupation #BDS #micropoetry #haiku #amwr\u2026",
+			"truncated": false,
+			"entities": {
+				"hashtags": [{
+						"text": "Palestine",
+						"indices": [80, 90]
+					}, {
+						"text": "EndTheOccupation",
+						"indices": [91, 108]
+					}, {
+						"text": "BDS",
+						"indices": [109, 113]
+					}, {
+						"text": "micropoetry",
+						"indices": [114, 126]
+					}, {
+						"text": "haiku",
+						"indices": [127, 133]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [{
+						"screen_name": "TyseerIbrahim",
+						"name": "A",
+						"id": 1645192772,
+						"id_str": "1645192772",
+						"indices": [3, 17]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 874505142,
+				"id_str": "874505142",
+				"name": "roger the dodger",
+				"screen_name": "rogersurfacings",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2180,
+				"friends_count": 1508,
+				"listed_count": 393,
+				"created_at": "Thu Oct 11 23:24:15 +0000 2012",
+				"favourites_count": 122932,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 154074,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/863074325024387073\/aBXJUwKG_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/863074325024387073\/aBXJUwKG_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/874505142\/1494660266",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Mon Jul 24 09:27:20 +0000 2017",
+				"id": 889416700067586048,
+				"id_str": "889416700067586048",
+				"text": "Boycott Israel\nbecause it stole the land of\nthe Palestinians\n#Palestine #EndTheOccupation #BDS #micropoetry #haiku\u2026 https:\/\/t.co\/t9vxwGwTdO",
+				"truncated": true,
+				"entities": {
+					"hashtags": [{
+							"text": "Palestine",
+							"indices": [61, 71]
+						}, {
+							"text": "EndTheOccupation",
+							"indices": [72, 89]
+						}, {
+							"text": "BDS",
+							"indices": [90, 94]
+						}, {
+							"text": "micropoetry",
+							"indices": [95, 107]
+						}, {
+							"text": "haiku",
+							"indices": [108, 114]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [{
+							"url": "https:\/\/t.co\/t9vxwGwTdO",
+							"expanded_url": "https:\/\/twitter.com\/i\/web\/status\/889416700067586048",
+							"display_url": "twitter.com\/i\/web\/status\/8\u2026",
+							"indices": [116, 139]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1645192772,
+					"id_str": "1645192772",
+					"name": "A",
+					"screen_name": "TyseerIbrahim",
+					"location": "A",
+					"description": "\u200f\u200f\u200f",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1810,
+					"friends_count": 1263,
+					"listed_count": 126,
+					"created_at": "Sun Aug 04 13:03:17 +0000 2013",
+					"favourites_count": 11964,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 38997,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+					"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/857943961691881472\/xUG7N9h-_normal.jpg",
+					"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/857943961691881472\/xUG7N9h-_normal.jpg",
+					"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1645192772\/1447872356",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 40,
+				"favorite_count": 43,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		}, {
+			"created_at": "Wed Aug 09 19:07:37 +0000 2017",
+			"id": 895360937946882048,
+			"id_str": "895360937946882048",
+			"text": "#polar | what is the best way\n.\n.\n.\n#haiku #highkuya #triptych #navy\u2026 https:\/\/t.co\/PO6yFJBU5U",
+			"truncated": false,
+			"entities": {
+				"hashtags": [{
+						"text": "polar",
+						"indices": [0, 6]
+					}, {
+						"text": "haiku",
+						"indices": [36, 42]
+					}, {
+						"text": "highkuya",
+						"indices": [43, 52]
+					}, {
+						"text": "triptych",
+						"indices": [53, 62]
+					}, {
+						"text": "navy",
+						"indices": [63, 68]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [{
+						"url": "https:\/\/t.co\/PO6yFJBU5U",
+						"expanded_url": "https:\/\/www.instagram.com\/p\/BXlYu4JFbN-QiTn2LGfSoCh5-DcVrc_aXb_Qj40\/",
+						"display_url": "instagram.com\/p\/BXlYu4JFbN-Q\u2026",
+						"indices": [70, 93]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "\u003ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c\/a\u003e",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54800218,
+				"id_str": "54800218",
+				"name": "GoHaya'Wan",
+				"screen_name": "andDANwasLike",
+				"location": "Queens, NY",
+				"description": "good bread #teamjacala IG: @buhbuhbeastbro\/@highkuya",
+				"url": "https:\/\/t.co\/JYV0znjsdW",
+				"entities": {
+					"url": {
+						"urls": [{
+								"url": "https:\/\/t.co\/JYV0znjsdW",
+								"expanded_url": "http:\/\/www.soundcloud.com\/buhbuhbeastbro",
+								"display_url": "soundcloud.com\/buhbuhbeastbro",
+								"indices": [0, 23]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 273,
+				"friends_count": 362,
+				"listed_count": 3,
+				"created_at": "Wed Jul 08 04:40:17 +0000 2009",
+				"favourites_count": 1110,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10009,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/439934556\/KTK.jpg",
+				"profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/439934556\/KTK.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/801458321869991936\/szj_5osm_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/801458321869991936\/szj_5osm_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/54800218\/1385016348",
+				"profile_link_color": "F5970A",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		}, {
+			"created_at": "Wed Aug 09 19:07:19 +0000 2017",
+			"id": 895360865112817664,
+			"id_str": "895360865112817664",
+			"text": "RT @Ant99: heirloom tomato\nfinally comfortable\nin my own skin\n\n#haiku published in @frogpondjournal 40:2 #micropoetry #haiga #art https:\/\/t\u2026",
+			"truncated": false,
+			"entities": {
+				"hashtags": [{
+						"text": "haiku",
+						"indices": [63, 69]
+					}, {
+						"text": "micropoetry",
+						"indices": [105, 117]
+					}, {
+						"text": "haiga",
+						"indices": [118, 124]
+					}, {
+						"text": "art",
+						"indices": [125, 129]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [{
+						"screen_name": "Ant99",
+						"name": "Annette Makino",
+						"id": 19262956,
+						"id_str": "19262956",
+						"indices": [3, 9]
+					}, {
+						"screen_name": "frogpondjournal",
+						"name": "Frogpond",
+						"id": 4921738341,
+						"id_str": "4921738341",
+						"indices": [83, 99]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39055904,
+				"id_str": "39055904",
+				"name": "red Ravine",
+				"screen_name": "redravine",
+				"location": "Minnesota, USA",
+				"description": "A writing & art space whose mission & vision is to provide community, structure, & tools that inspire. From writer, artist, photographer QuoinMonkey.",
+				"url": "http:\/\/t.co\/PNciZ29VIi",
+				"entities": {
+					"url": {
+						"urls": [{
+								"url": "http:\/\/t.co\/PNciZ29VIi",
+								"expanded_url": "http:\/\/redravine.com\/",
+								"display_url": "redravine.com",
+								"indices": [0, 22]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2247,
+				"friends_count": 2610,
+				"listed_count": 287,
+				"created_at": "Sun May 10 14:46:34 +0000 2009",
+				"favourites_count": 20594,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24411,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/205670532\/redRavine_avatar_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/205670532\/redRavine_avatar_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/39055904\/1428250842",
+				"profile_link_color": "F4110B",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "FDFB86",
+				"profile_text_color": "1E1615",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Wed Aug 09 05:10:23 +0000 2017",
+				"id": 895150243422945280,
+				"id_str": "895150243422945280",
+				"text": "heirloom tomato\nfinally comfortable\nin my own skin\n\n#haiku published in @frogpondjournal 40:2 #micropoetry #haiga\u2026 https:\/\/t.co\/ol8dhEEQkq",
+				"truncated": true,
+				"entities": {
+					"hashtags": [{
+							"text": "haiku",
+							"indices": [52, 58]
+						}, {
+							"text": "micropoetry",
+							"indices": [94, 106]
+						}, {
+							"text": "haiga",
+							"indices": [107, 113]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [{
+							"screen_name": "frogpondjournal",
+							"name": "Frogpond",
+							"id": 4921738341,
+							"id_str": "4921738341",
+							"indices": [72, 88]
+						}
+					],
+					"urls": [{
+							"url": "https:\/\/t.co\/ol8dhEEQkq",
+							"expanded_url": "https:\/\/twitter.com\/i\/web\/status\/895150243422945280",
+							"display_url": "twitter.com\/i\/web\/status\/8\u2026",
+							"indices": [115, 138]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 19262956,
+					"id_str": "19262956",
+					"name": "Annette Makino",
+					"screen_name": "Ant99",
+					"location": "Arcata, California",
+					"description": "I'm a writer and artist combining sumi ink and watercolor paintings with original haiku and other words. Art, cards, and prints through Makino Studios.",
+					"url": "http:\/\/t.co\/CFr1OJHMkb",
+					"entities": {
+						"url": {
+							"urls": [{
+									"url": "http:\/\/t.co\/CFr1OJHMkb",
+									"expanded_url": "http:\/\/www.makinostudios.com",
+									"display_url": "makinostudios.com",
+									"indices": [0, 22]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 774,
+					"friends_count": 319,
+					"listed_count": 57,
+					"created_at": "Tue Jan 20 22:53:35 +0000 2009",
+					"favourites_count": 605,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 2958,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "352726",
+					"profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/616994714\/49szlw4yrgajuh7epbac.jpeg",
+					"profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/616994714\/49szlw4yrgajuh7epbac.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/441725386401927168\/Fo2brlXM_normal.jpeg",
+					"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/441725386401927168\/Fo2brlXM_normal.jpeg",
+					"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/19262956\/1398583746",
+					"profile_link_color": "2B610C",
+					"profile_sidebar_border_color": "829D5E",
+					"profile_sidebar_fill_color": "99CC33",
+					"profile_text_color": "3E4415",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "5a110d312052166f",
+					"url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/5a110d312052166f.json",
+					"place_type": "city",
+					"name": "San Francisco",
+					"full_name": "San Francisco, CA",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [[[-122.514926, 37.708075], [-122.357031, 37.708075], [-122.357031, 37.833238], [-122.514926, 37.833238]]]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 4,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		}, {
+			"created_at": "Wed Aug 09 19:07:05 +0000 2017",
+			"id": 895360806585483264,
+			"id_str": "895360806585483264",
+			"text": "Its 5am and\nI'm awake for no reason\nWhat the fuck, my dude. \n\n#haiku",
+			"truncated": false,
+			"entities": {
+				"hashtags": [{
+						"text": "haiku",
+						"indices": [62, 68]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3301092947,
+				"id_str": "3301092947",
+				"name": "Tuk",
+				"screen_name": "TukRoll",
+				"location": "Australia",
+				"description": "PhD student, #CriticalRole's resident Feels God, and Half-orc Barbarian. Anon me your trash @ https:\/\/t.co\/73m9f8A6RS  \ud83d\udc1e",
+				"url": "https:\/\/t.co\/j6f4eqcRum",
+				"entities": {
+					"url": {
+						"urls": [{
+								"url": "https:\/\/t.co\/j6f4eqcRum",
+								"expanded_url": "http:\/\/www.patreon.com\/ebradshaw",
+								"display_url": "patreon.com\/ebradshaw",
+								"indices": [0, 23]
+							}
+						]
+					},
+					"description": {
+						"urls": [{
+								"url": "https:\/\/t.co\/73m9f8A6RS",
+								"expanded_url": "http:\/\/curiouscat.me\/Tuk_Trash",
+								"display_url": "curiouscat.me\/Tuk_Trash",
+								"indices": [94, 117]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2166,
+				"friends_count": 433,
+				"listed_count": 67,
+				"created_at": "Thu May 28 00:41:11 +0000 2015",
+				"favourites_count": 45784,
+				"utc_offset": 36000,
+				"time_zone": "Australia\/Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31500,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/894799098452115456\/QETYK4aG_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/894799098452115456\/QETYK4aG_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3301092947\/1498706448",
+				"profile_link_color": "2A7111",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		}, {
+			"created_at": "Wed Aug 09 19:06:33 +0000 2017",
+			"id": 895360668668481537,
+			"id_str": "895360668668481537",
+			"text": "RT @shedancestibet: awakening to\nthe heart of enlightenment\nlight of all buddhas \n#haiku https:\/\/t.co\/zbsVRV4NVk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [{
+						"text": "haiku",
+						"indices": [82, 88]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [{
+						"screen_name": "shedancestibet",
+						"name": "she dances tibet",
+						"id": 991670881,
+						"id_str": "991670881",
+						"indices": [3, 18]
+					}
+				],
+				"urls": [],
+				"media": [{
+						"id": 894593949691772928,
+						"id_str": "894593949691772928",
+						"indices": [89, 112],
+						"media_url": "http:\/\/pbs.twimg.com\/media\/DGo8dR2XgAAa0QK.jpg",
+						"media_url_https": "https:\/\/pbs.twimg.com\/media\/DGo8dR2XgAAa0QK.jpg",
+						"url": "https:\/\/t.co\/zbsVRV4NVk",
+						"display_url": "pic.twitter.com\/zbsVRV4NVk",
+						"expanded_url": "https:\/\/twitter.com\/shedancestibet\/status\/894593957170208768\/photo\/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 772,
+								"h": 515,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 772,
+								"h": 515,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 894593957170208768,
+						"source_status_id_str": "894593957170208768",
+						"source_user_id": 991670881,
+						"source_user_id_str": "991670881"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [{
+						"id": 894593949691772928,
+						"id_str": "894593949691772928",
+						"indices": [89, 112],
+						"media_url": "http:\/\/pbs.twimg.com\/media\/DGo8dR2XgAAa0QK.jpg",
+						"media_url_https": "https:\/\/pbs.twimg.com\/media\/DGo8dR2XgAAa0QK.jpg",
+						"url": "https:\/\/t.co\/zbsVRV4NVk",
+						"display_url": "pic.twitter.com\/zbsVRV4NVk",
+						"expanded_url": "https:\/\/twitter.com\/shedancestibet\/status\/894593957170208768\/photo\/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 772,
+								"h": 515,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 772,
+								"h": 515,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 894593957170208768,
+						"source_status_id_str": "894593957170208768",
+						"source_user_id": 991670881,
+						"source_user_id_str": "991670881"
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1777919839,
+				"id_str": "1777919839",
+				"name": "IVAN ADRIAN LONGORIA",
+				"screen_name": "logi79ivan",
+				"location": "mexico df.",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33,
+				"friends_count": 97,
+				"listed_count": 0,
+				"created_at": "Sat Sep 07 21:30:57 +0000 2013",
+				"favourites_count": 3261,
+				"utc_offset": -18000,
+				"time_zone": "Mexico City",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 142,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000626611169\/a55f0d407badd8f8cfa730b88e742f01_normal.jpeg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000626611169\/a55f0d407badd8f8cfa730b88e742f01_normal.jpeg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1777919839\/1485461051",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Mon Aug 07 16:19:54 +0000 2017",
+				"id": 894593957170208768,
+				"id_str": "894593957170208768",
+				"text": "awakening to\nthe heart of enlightenment\nlight of all buddhas \n#haiku https:\/\/t.co\/zbsVRV4NVk",
+				"truncated": false,
+				"entities": {
+					"hashtags": [{
+							"text": "haiku",
+							"indices": [62, 68]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [{
+							"id": 894593949691772928,
+							"id_str": "894593949691772928",
+							"indices": [69, 92],
+							"media_url": "http:\/\/pbs.twimg.com\/media\/DGo8dR2XgAAa0QK.jpg",
+							"media_url_https": "https:\/\/pbs.twimg.com\/media\/DGo8dR2XgAAa0QK.jpg",
+							"url": "https:\/\/t.co\/zbsVRV4NVk",
+							"display_url": "pic.twitter.com\/zbsVRV4NVk",
+							"expanded_url": "https:\/\/twitter.com\/shedancestibet\/status\/894593957170208768\/photo\/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 454,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 772,
+									"h": 515,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 772,
+									"h": 515,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [{
+							"id": 894593949691772928,
+							"id_str": "894593949691772928",
+							"indices": [69, 92],
+							"media_url": "http:\/\/pbs.twimg.com\/media\/DGo8dR2XgAAa0QK.jpg",
+							"media_url_https": "https:\/\/pbs.twimg.com\/media\/DGo8dR2XgAAa0QK.jpg",
+							"url": "https:\/\/t.co\/zbsVRV4NVk",
+							"display_url": "pic.twitter.com\/zbsVRV4NVk",
+							"expanded_url": "https:\/\/twitter.com\/shedancestibet\/status\/894593957170208768\/photo\/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 454,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 772,
+									"h": 515,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 772,
+									"h": 515,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 991670881,
+					"id_str": "991670881",
+					"name": "she dances tibet",
+					"screen_name": "shedancestibet",
+					"location": "",
+					"description": "Solidarity with Tibet \u0f68\u0f7c\u0f7e\u0f0b\u0f58\u0f0b\u0f4e\u0f72\u0f0b\u0f54\u0f51\u0fa8\u0f7a\u0f0b\u0f67\u0f71\u0f74\u0f83 Compassion~Peace~Earth",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 23677,
+					"friends_count": 17977,
+					"listed_count": 452,
+					"created_at": "Wed Dec 05 20:00:35 +0000 2012",
+					"favourites_count": 54303,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 14611,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "352726",
+					"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme5\/bg.gif",
+					"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme5\/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/458940697949655040\/Peo5o3oE_normal.png",
+					"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/458940697949655040\/Peo5o3oE_normal.png",
+					"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/991670881\/1415916733",
+					"profile_link_color": "D02B55",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "99CC33",
+					"profile_text_color": "3E4415",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 23,
+				"favorite_count": 60,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		}
+	],
+	"search_metadata": {
+		"completed_in": 0.1,
+		"max_id": 895361626261598209,
+		"max_id_str": "895361626261598209",
+		"query": "%23haiku",
+		"refresh_url": "?since_id=895361626261598209&q=%23haiku&include_entities=1",
+		"count": 10,
+		"since_id": 0,
+		"since_id_str": "0"
+	}
+}

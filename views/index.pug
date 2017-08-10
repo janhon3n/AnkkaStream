@@ -1,0 +1,48 @@
+doctype html
+html(lang='en')
+  head
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=<device-width>, initial-scale=1.0')
+    meta(http-equiv='X-UA-Compatible', content='ie=edge')
+    link(href='https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Indie+Flower|Noticia+Text', rel='stylesheet')
+    link(rel='stylesheet', href='style.css')
+    title #AnkkaStream
+  body
+    #containter
+      header
+        #header-text
+          | #AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream
+      iframe#stream(src='http://janho.dy.fi/ankkastream/', style='width:480px;height:640px;')
+      #duck-info
+        .duck
+          h2 Posankka
+          .info
+            | Posankka on ankoista oranssinokkaisempi ja vähän vaaleahöyhenisempi.
+          .infotable
+            div
+              label Syntynyt
+              span.data 14.1.2017
+        .duck
+          h2 Mosquito
+          .info
+            | (Mosquito Jummi Poro Trangia Pihlaja)
+            br
+            | Mosse on nimetty Lapin retkeilyluonnon ja ankkejen muuttolaatikonpitäjän mukaan.
+            br
+            | Mosquiton nimestä huolimatta hän on Posankan tapaan erittäin rakas ankke.
+          .infotable
+            div
+              label Syntynyt
+              span.data 14.1.2017
+      #twitter
+            each tweet in statuses
+                .tweet
+                  .user
+                    img(src=tweet.user.profile_image_url)
+                    label.username= tweet.user.name
+                    label.nametag= "@"+tweet.user.screen_name
+                  .text= tweet.text
+        
+      #info
+        | Ota yhteyttä omistajaan: 
+        email joel.jotain@gmail.com

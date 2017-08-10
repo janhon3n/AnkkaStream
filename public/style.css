@@ -1,0 +1,114 @@
+body{
+    margin:0px;
+    font-family:'Noticia Text', cursive;
+    background-color:black;
+}
+div#containter {
+    background-color:#222;
+    color:white;
+    margin-left:auto;
+    margin-right:auto;
+    min-width:480px;
+    max-width:1400px;
+    display:grid;
+    grid-template-columns: 100%;
+    grid-template-rows:auto auto auto auto auto;
+    grid-template-areas:
+    "header"
+    "stream"
+    "duck-info"
+    "twitter"
+    "info";
+}
+@media (min-width:540px) {
+    div#containter {
+        grid-template-columns: 1fr auto auto 1fr;
+        grid-template-rows:auto auto auto auto;
+        grid-template-areas:
+        "header header header header"
+        ". stream stream ."
+        "duck-info duck-info twitter twitter"
+        "info info info info";
+    }
+}
+@media (min-width:1200px) {
+    div#containter {
+        grid-template-columns: 1fr auto auto 1fr;
+        grid-template-rows:auto auto auto;
+        grid-template-areas:
+        "header header header header"
+        "duck-info stream stream twitter"
+        "info info info info";
+    }
+}
+
+header {
+    grid-area:header;
+    background-color:hsl(60, 80%, 20%);
+    font-size:140%;
+    overflow:hidden;
+}
+header div#header-text {
+    position:relative;
+    left:-50px;    
+}
+iframe#stream {
+    background-color:gray;
+    grid-area:stream;
+    width:480px;
+    margin-left:auto;
+    margin-right:auto;
+    border:none;
+}
+div#duck-info {
+    grid-area:duck-info;
+    max-height:640px;
+}
+div#twitter {
+    grid-area:twitter;
+    max-height:640px;
+    overflow:auto;
+}
+div#info {
+    background-color:hsl(60, 80%, 20%);
+    grid-area:info;
+}
+
+
+h1 {
+    margin:0px;
+    font-size:140%;
+}
+
+
+div#duck-info div.duck {
+    margin:20px;
+}
+
+div#twitter .tweet {
+    margin:20px;
+    margin-bottom:30px;
+}
+
+div#twitter .tweet .user img {
+    width:35px;
+    box-shadow:0 0 5px black;
+    height:auto;
+}
+div#twitter .tweet .user label.username {
+    margin:10px;
+    color:#BBB;
+}
+div#twitter .tweet .user label.nametag {
+    color:#4099FF;
+    font-size:85%;
+}
+
+div::-webkit-scrollbar {
+    width:4px;
+    background-color:#555;
+}
+div::-webkit-scrollbar-thumb {
+    background-color:white;
+    border-radius:2px;
+}
