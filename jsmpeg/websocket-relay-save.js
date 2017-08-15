@@ -11,7 +11,7 @@ var fs = require('fs'),
 if (process.argv.length < 3) {
 	console.log(
 		'Usage: \n' +
-		'node websocket-relay.js <secret> [<stream-port> <websocket-port>]'
+		'node websocket-relay.js <secret> [<stream-port> <websocket-port> <save-file>]'
 	);
 	process.exit();
 }
@@ -19,6 +19,7 @@ if (process.argv.length < 3) {
 var STREAM_SECRET = process.argv[2],
 	STREAM_PORT = process.argv[3] || 8081,
 	WEBSOCKET_PORT = process.argv[4] || 8082,
+	SAVEFILE = process.argv[5] || undefined,
 	RECORD_STREAM = false;
 
 // Websocket Server
@@ -46,7 +47,9 @@ socketServer.broadcast = function(data) {
 		}
 	});
 };
-var writeStream = fs.createWriteStream('./output');
+
+if(SAVEFILE)
+	var writeStream = fs.createWriteStream('./'+SAVEFILE);
 
 // HTTP Server to accept incomming MPEG-TS Stream from ffmpeg
 var streamServer = http.createServer( function(request, response) {
@@ -67,7 +70,8 @@ var streamServer = http.createServer( function(request, response) {
 		request.socket.remotePort
 	);
 	request.on('data', function(data){
-		writeStream.write(data);
+		if(SAVEFILE)
+			writeStream.write(data);
 		socketServer.broadcast(data);
 		if (request.socket.recording) {
 			request.socket.recording.write(data);
