@@ -79,7 +79,20 @@ h1 {
     margin:0px;
     font-size:140%;
 }
-
+div#stream {
+    width:480px;
+    height:640px;
+}
+div#stream canvas {
+    position:relative;
+    left:-80px;
+    top:80px;
+    width:640px;
+    height:480px;
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+}
 
 div#duck-info div.duck {
     margin:20px;
