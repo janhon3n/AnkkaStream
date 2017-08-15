@@ -18,13 +18,12 @@ var twitterError = function(err, response, body){
 }
 var twitterSuccess = function(data){
     tweetCache = JSON.parse(data);
-    console.log(data);
     console.log('Tweets fetched from Twitter');
 }
 
 function fetchTweets() {
     twitter.getSearch({
-            'q':'#haiku',
+            'q':'#maga',
             'count': 10,
             'result_type': 'recent',
             'include_entities': false
