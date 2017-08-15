@@ -6,13 +6,16 @@ html(lang='en')
     meta(http-equiv='X-UA-Compatible', content='ie=edge')
     link(href='https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Indie+Flower|Noticia+Text', rel='stylesheet')
     link(rel='stylesheet', href='style.css')
+    script(type="text/javascript" src="jsmpeg.min.js")
+    script(type="text/javascript" src="streamer.js")
     title #AnkkaStream
   body
     #containter
       header
         #header-text
           | #AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream#AnkkaStream
-      iframe#stream(src='http://janho.dy.fi/ankkastream/', style='width:480px;height:640px;')
+      #stream
+        canvas#stream-canvas
       #duck-info
         .duck
           h2 Posankka
@@ -45,4 +48,4 @@ html(lang='en')
         
       #info
         | Ota yhteyttä omistajaan: 
-        email joel.jotain@gmail.com
+        email joel.jotain[at]gmail.com
