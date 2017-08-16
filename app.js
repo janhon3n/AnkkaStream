@@ -23,7 +23,7 @@ var twitterSuccess = function(data){
 
 function fetchTweets() {
     twitter.getSearch({
-            'q':'#ankkastream',
+            'q':'#maga',
             'count': 10,
             'result_type': 'recent',
             'include_entities': false
