@@ -1,6 +1,10 @@
 console.log("toimii");
+const twitterSearch = "#ankkastream";
+const tweetCount = 10;
 
 var Twitter = require('twitter-node-client').Twitter;
+var moment = require('moment');
+var autolinker = require('text-autolinker');
 var pug = require('pug');
 var express = require('express');
 var app = express();
@@ -17,14 +21,21 @@ var twitterError = function(err, response, body){
     handleError(err);
 }
 var twitterSuccess = function(data){
-    tweetCache = JSON.parse(data);
+    var twitterData = JSON.parse(data);
+    twitterData.statuses.forEach((s) => {
+        autolinker.parse({text: s.text}, (err, res) => {
+            s.text = res.html;
+        });
+        s.created_at = moment(s.created_at).format('DD.MM.YYYY HH:mm');
+    });
+    tweetCache = twitterData;
     console.log('Tweets fetched from Twitter');
 }
 
 function fetchTweets() {
     twitter.getSearch({
-            'q':'#maga',
-            'count': 10,
+            'q':twitterSearch,
+            'count': tweetCount,
             'result_type': 'recent',
             'include_entities': false
         }, twitterError, twitterSuccess);

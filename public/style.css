@@ -1,6 +1,6 @@
 body{
     margin:0px;
-    font-family:'Noticia Text', cursive;
+    font-family:'Quicksand', Helvetica;
     background-color:#665443;
 }
 div#containter {
@@ -50,7 +50,7 @@ email {
 
 header {
     grid-area:header;
-    background-color:#91BE8A;
+    background-color:#FFCC93;
     font-size:140%;
     overflow:hidden;
 }
@@ -60,7 +60,7 @@ header div#header-text {
 }
 div#duck-info {
     grid-area:duck-info;
-    background-color:#84B4DE;
+    background-color:#435B40;
     overflow:auto;
 }
 
@@ -78,6 +78,12 @@ div#twitter {
         
         width:480px;
         height:640px;
+    }
+    div#duck-info {
+        background-color:#91BE8A;
+    }
+    div#duck-info div.duck:not(:last-child){
+        border-bottom:4px solid #435B40;
     }
     div#twitter {
         border-top:8px solid #3B3026;
@@ -100,14 +106,14 @@ div#twitter {
         height:640px;
     }
     div#duck-info {
-        max-width:480px;
+        max-width:450px;
         box-shadow:10px 0 0 #3B3026;
     }
     div#twitter {
         margin-top:10px;
         margin-bottom:80px;
         box-shadow:0 0 0 10px #3B3026;
-        max-width:960px;
+        max-width:930px;
     }
     div#info {
         position: fixed;
@@ -133,7 +139,7 @@ div#twitter {
 
 }
 div#info {
-    background-color:#91BE8A;
+    background-color:#FFCC93;
     grid-area:info;
     padding:5px;
 }
@@ -155,18 +161,37 @@ div#stream canvas {
 }
 
 div#duck-info div.duck {
-    margin:20px;
+    margin:8px;
+    padding:15px;
+    background-color:#91BE8A;
 }
 div#duck-info div.infotable {
     margin:10px;
 }
+div#duck-info div.infotable div {
+    padding:2px;
+    padding-left:10px;
+    padding-right:10px;
+    font-size:0.9em;
+}
+div#duck-info div.infotable div:nth-child(2n-1) {
+    background-color:#B1C7AE;
+
+}
 div#duck-info div.infotable div label {
     display:inline-block;
-    min-width:90px;
+    min-width:110px;
+    font-weight: bold;
 }
 
 div#twitter .tweet {
     padding:20px;
+    word-wrap:
+}
+div#twitter .tweet a {
+    color:#07448A;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
 }
 div#twitter .tweet:nth-child(2n){
     background-color:#98BFE3;
@@ -185,6 +210,11 @@ div#twitter .tweet .user label.username {
 div#twitter .tweet .user label.nametag {
     color:#07448A;
     font-size:85%;
+}
+div#twitter .tweet .created-at {
+    font-size:0.7em;
+    text-align: right;
+    color:#5B503D;
 }
 
 div::-webkit-scrollbar {
