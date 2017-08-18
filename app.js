@@ -1,4 +1,3 @@
-console.log("toimii");
 const twitterSearch = "#ankkastream";
 const tweetCount = 10;
 
