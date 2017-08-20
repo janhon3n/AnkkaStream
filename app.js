@@ -3,7 +3,6 @@ const tweetCount = 10;
 
 var Twitter = require('twitter-node-client').Twitter;
 var moment = require('moment');
-var autolinker = require('text-autolinker');
 var pug = require('pug');
 var express = require('express');
 var app = express();
@@ -22,10 +21,8 @@ var twitterError = function(err, response, body){
 var twitterSuccess = function(data){
     var twitterData = JSON.parse(data);
     twitterData.statuses.forEach((s) => {
-        autolinker.parse({text: s.text}, (err, res) => {
-            s.text = res.html;
-        });
-        s.created_at = moment(s.created_at).format('DD.MM.YYYY HH:mm');
+        s.created_at = moment(new Date(s.created_at.replace(/^\w+ (\w+) (\d+) ([\d:]+) \+0000 (\d+)$/,
+                "$1 $2 $4 $3 UTC"))).format('DD.MM.YYYY HH:mm');
     });
     tweetCache = twitterData;
     console.log('Tweets fetched from Twitter');
