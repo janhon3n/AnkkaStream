@@ -19,7 +19,9 @@ app.use(express.static('public'));
 
 var config = require('./secret/twitter_config.js');
 
-var tweetCache;
+var tweetCache = {
+    statuses: []   
+}
 var twitter = new Twitter(config);
 
 var twitterError = function(err, response, body){
