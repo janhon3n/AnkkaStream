@@ -75,7 +75,9 @@ var tweetUpdating = setInterval(fetchTweets, 600000);
 app.get('/', function(req,res,next){
     res.render('index', {statuses:tweetCache});
 });
-
+app.get('/stream', function(req,res,next){
+    res.render('stream')
+})
 
 
 /* ERROR HANDLING */
