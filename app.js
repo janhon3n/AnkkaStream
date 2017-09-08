@@ -12,6 +12,14 @@ var app = express();
 var server = http.Server(app)
 var io = socketIo(server);
 
+var htmlTweet = require('html-tweet')(
+    {
+        hashtag: '<span class=\'hashtag\'><%= hashtag %></span>',
+        mention: '<a class=\'mention\' href=\'https://twitter.com/<%= mention %>\'><%= mention %></a>',
+        url: '<a class=\'url\' href=\'<%= url %>\'><%= url %></a>'
+}
+)
+
 var clientCount = 0;
 
 server.listen(3000);
