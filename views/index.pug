@@ -9,6 +9,7 @@ html(lang='en')
 
       gtag('config', 'UA-62390508-4');
 
+    script(src="jquery-3.2.1.min.js")
     meta(charset='UTF-8')
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
     meta(http-equiv='X-UA-Compatible', content='ie=edge')
@@ -58,14 +59,16 @@ html(lang='en')
                   .user
                     img(src=tweet.user.profile_image_url)
                     label.username= tweet.user.name
-                    label.nametag= "@"+tweet.user.screen_name
+                    label.nametag
+                      a(href="http://twitter.com/"+tweet.user.screen_name)= "@"+tweet.user.screen_name
                   .text!= tweet.text
                   .created-at= tweet.created_at
         
       #info
-        | Jos ankkojen hyvinvointi huolestuttaa, ota yhteyttä omistajaan: 
-        email joel.jotain[at]gmail.com
+        |Jos ankkojen hyvinvointi huolestuttaa, ota yhteyttä omistajaan: 
+        email joel.j.j[ät]gmail.com
 
       script(type="text/javascript" src="jsmpeg.min.js")
       script(type="text/javascript" src="streamer.js")
       script(type="text/javascript" src="socket.io.js")
+      script(type="text/javascript" src="socket_io_api.js")

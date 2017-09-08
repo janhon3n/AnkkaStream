@@ -75,18 +75,9 @@ div#twitter {
     div#stream {
         margin-left:auto;
         margin-right:auto;
-        
-	position:relative;
         width:480px;
-	padding-top:133%;
+        height:640px;
     }
-    div#stream canvas {
-	position:absolute;
-	top:0;
-	bottom:0;
-	left:0;
-	right:0;
-	}
     div#duck-info {
         background-color:#91BE8A;
     }
@@ -102,7 +93,17 @@ div#twitter {
     div#stream {
         width:100%;
         height:auto;
+	    position:relative;
+        width:480px;
+	    padding-top:133%;
     }
+    div#stream canvas {
+	position:absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	}
 }
 
 @media (min-width:800px) and (max-width:1200px){
@@ -193,8 +194,8 @@ div#duck-info div.infotable div label {
 
 div#twitter .tweet {
     padding:20px;
-    word-wrap:
 }
+
 div#twitter .tweet a {
     color:#07448A;
     overflow-wrap: break-word;
@@ -203,7 +204,6 @@ div#twitter .tweet a {
 div#twitter .tweet:nth-child(2n){
     background-color:#98BFE3;
 }
-
 div#twitter .tweet .user img {
     width:35px;
     box-shadow:0 0 5px black;
@@ -218,18 +218,27 @@ div#twitter .tweet .user label.nametag {
     color:#07448A;
     font-size:85%;
 }
+
+div#twitter .tweet .user .nametag a{
+    text-decoration: none;
+}
+div#twitter .tweet .user .nametag:hover a{
+    text-decoration: underline;
+}
 div#twitter .tweet .created-at {
     font-size:0.7em;
     text-align: right;
     color:#5B503D;
 }
 
-div::-webkit-scrollbar {
+
+
+body::-webkit-scrollbar, div::-webkit-scrollbar {
     width:4px;
     height:4px;
     background-color:#555;
 }
-div::-webkit-scrollbar-thumb {
+body::-webkit-scrollbar-thumb, div::-webkit-scrollbar-thumb {
     background-color:white;
     border-radius:2px;
 }
