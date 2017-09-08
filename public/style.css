@@ -23,11 +23,11 @@ div#containter {
 }
 @media (min-width:800px) {
     div#containter {
-        grid-template-columns: 1fr 480px auto 1fr;
+        grid-template-columns: 1fr auto 480px 1fr;
         grid-template-rows:auto auto auto auto;
         grid-template-areas:
         "header header header header"
-        ". stream duck-info ."
+        ". duck-info stream ."
         ". twitter twitter ."
         "info info info info";
     }
@@ -46,6 +46,8 @@ div#containter {
 
 email {
     font-weight: bold;
+    margin-left:5px;
+    margin-right:5px;
 }
 
 header {
@@ -110,13 +112,13 @@ div#twitter {
     div#stream {
         margin-left:0px;
         margin-right:0px;
-        box-shadow:-10px 0 0 #3B3026;
+        box-shadow:10px 0 0 #3B3026;
         width:480px;
         height:640px;
     }
     div#duck-info {
         max-width:450px;
-        box-shadow:10px 0 0 #3B3026;
+        box-shadow:-10px 0 0 #3B3026;
     }
     div#twitter {
         margin-top:10px;
@@ -174,23 +176,30 @@ div#duck-info div.duck {
     background-color:#91BE8A;
 }
 div#duck-info div.infotable {
-    margin:10px;
+    margin:20px;
+    font-size:95%;
 }
 div#duck-info div.infotable div {
     padding:2px;
     padding-left:10px;
     padding-right:10px;
     font-size:0.9em;
+    overflow:hidden;
+    white-space: nowrap
 }
 div#duck-info div.infotable div:nth-child(2n-1) {
-    background-color:#B1C7AE;
-
+    background-color:rgba(177, 199, 174, 0.65);
 }
 div#duck-info div.infotable div label {
     display:inline-block;
-    min-width:110px;
     font-weight: bold;
+    width:calc(50% - 20px);
+    text-align:right;
+    margin-right:20px;
+    overflow:hidden;
 }
+
+
 
 div#twitter .tweet {
     padding:20px;
@@ -200,6 +209,10 @@ div#twitter .tweet a {
     color:#07448A;
     overflow-wrap: break-word;
     word-wrap: break-word;
+    text-decoration:none;
+}
+div#twitter .tweet a:hover {
+    text-decoration:underline;
 }
 div#twitter .tweet:nth-child(2n){
     background-color:#98BFE3;
@@ -219,9 +232,6 @@ div#twitter .tweet .user label.nametag {
     font-size:85%;
 }
 
-div#twitter .tweet .user .nametag a{
-    text-decoration: none;
-}
 div#twitter .tweet .user .nametag:hover a{
     text-decoration: underline;
 }
@@ -230,6 +240,11 @@ div#twitter .tweet .created-at {
     text-align: right;
     color:#5B503D;
 }
+div#twitter .tweet .hashtag {
+    color:#3B3026;
+}
+
+
 
 div#secret-duck {
     position: fixed;

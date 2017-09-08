@@ -40,6 +40,12 @@ html(lang='en')
             div
               label Synnyinpaikka
               span.data Loimaa
+            div
+              label Laji
+              span.data Ankka
+            div
+              label Paino
+              span.data 8kg
         .duck
           h2 Maya
           .info
@@ -53,6 +59,12 @@ html(lang='en')
             div
               label Synnyinpaikka
               span.data Loimaa
+            div
+              label Laji
+              span.data Ankka
+            div
+              label Paino
+              span.data 10kg
       #twitter
             each tweet in statuses
                 .tweet
@@ -76,9 +88,9 @@ html(lang='en')
           switch
             foreignObject(x="30", y="20", width="180", height="120")
               div
-                span#speech-bubble-text Tekstiii a a a asdf a a sdf  af awfaw f awef awe f
+                span.speech-bubble-text
             
-            text(x="20" y="20") Your SVG viewer cannot display html.
+            text.speech-bubble-text(x="30" y="20")
           
       img(src="ankka.png")
 

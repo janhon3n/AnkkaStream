@@ -28,7 +28,7 @@ function moveSecretDuck(steps, cb){
 }
 
 function showSpeechBubble(text, size, duration, cb) {
-    $("#secret-duck #speech-bubble-text").html(text).css({"font-size":size+"px"})
+    $("#secret-duck .speech-bubble-text").html(text).css({"font-size":size+"px"})
     $("#secret-duck svg#speech-bubble").show();
     setTimeout(() => {
         $("#secret-duck svg#speech-bubble").hide();

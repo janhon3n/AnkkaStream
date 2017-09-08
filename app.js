@@ -2,7 +2,7 @@ const twitterSearch = "#ankkastream";
 const tweetCount = 10;
 
 var Twitter = require('twitter-node-client').Twitter;
-var htmlTweet = require('html-tweet')()
+
 var moment = require('moment');
 var pug = require('pug');
 var express = require('express');
