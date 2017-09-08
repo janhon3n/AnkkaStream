@@ -231,7 +231,48 @@ div#twitter .tweet .created-at {
     color:#5B503D;
 }
 
+div#secret-duck {
+    position: fixed;
+    bottom:-120px;
+    right:0px;
+}
 
+div#secret-duck img{
+    cursor:pointer;
+}
+div#secret-duck svg {
+    position: absolute;
+    bottom:60px;
+    right:130px;
+    display:none;
+}
+div#secret-duck svg rect {
+    stroke:black;
+    stroke-width:5px;
+    fill:white;
+}
+
+div#secret-duck svg rect.full-white {
+    stroke-width:0px;
+    fill:white;
+}
+
+div#secret-duck svg polygon {
+    stroke: black;
+    stroke-width:5px;
+    fill:white;
+}
+div#secret-duck svg div {
+    text-align:center;
+    height:100%;
+    display: flex;
+    align-items: center;
+}
+div#secret-duck svg div span {
+    display:block;
+    width:100%;
+    text-align:center;
+}
 
 body::-webkit-scrollbar, div::-webkit-scrollbar {
     width:4px;
