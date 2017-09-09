@@ -54,29 +54,40 @@ secretDuck.find("img").click(() => {
                 })
                 break;
             case 3:
+                secretDuck.find("img").attr("src", "ankka_scream.png")
                 moveSecretDuck([{pos:-20, time:50}], () => {
                     showSpeechBubble("KVAAK!", 35, 1000, () => {
-                        moveSecretDuck([{pos:-40, time:200}], () => {
+                        secretDuck.find("img").attr("src", "ankka.png")
+                        moveSecretDuck([{pos:-60, time:400}], () => {
                             secretDuckReady = true;                                                    
                         })
                     });
                 })
                 break;
             case 4:
-                showSpeechBubble("Hei ystävä", 25, 1000, () => {
-                    secretDuckReady = true;
+                moveSecretDuck([{pos:-40, time:200}], () => {
+                    showSpeechBubble("Hei ystävä", 25, 1000, () => {
+                        moveSecretDuck([{pos:-60, time:200}], () => {
+                            secretDuckReady = true;
+                        })
+                    })
                 })
                 break;
             case 5:
-                showSpeechBubble("Minkä takia hanhilla on pitkä kaula?", 20, 4000, () => {
-                    secretDuckReady = true;
-                })
-                break;
-            
-            case 6:
-                    showSpeechBubble("Jos vesi sattuisi nousemaan, ne eivät huku.", 20, 4000, () => {
+                moveSecretDuck([{pos:-40, time:200}], () => {
+                    showSpeechBubble("Minkä takia hanhilla on pitkä kaula?", 20, 3000, () => {
                         secretDuckReady = true;
                     })
+                })
+                break;
+            case 6:
+            
+            case 5:
+                showSpeechBubble("Jos vesi sattuisi nousemaan, ne eivät huku.", 20, 3000, () => {
+                        moveSecretDuck([{pos:-60, time:200}], () => {
+                            secretDuckReady = true;
+                        })
+                })
                 break;
         }
     }

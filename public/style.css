@@ -273,12 +273,19 @@ div#twitter .tweet .hashtag {
     color:#3B3026;
 }
 
+div#info .at::before {
+    content:"@";
+}
+
 
 
 div#secret-duck {
     position: fixed;
     bottom:-120px;
     right:0px;
+
+
+    display:none;
 }
 
 div#secret-duck img{
