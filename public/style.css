@@ -95,9 +95,8 @@ div#twitter {
     div#stream {
         width:100%;
         height:auto;
-	    position:relative;
-        width:480px;
-	    padding-top:133%;
+	position:relative;
+	padding-top:133%;
     }
     div#stream canvas {
 	position:absolute;

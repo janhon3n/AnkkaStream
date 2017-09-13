@@ -51,7 +51,7 @@ var twitterSuccess = function(data){
 
     //if new tweets add them to cache and send to clients
     if(newTweets.length > 0){
-        tweetCache = tweetCache.concat(newTweets);
+        tweetCache = newTweets.concat(tweetCache);
         io.sockets.emit('newTweets', newTweets);
     }
 
